@@ -1,2 +1,1 @@
-# main
-Main Stuff
+# Repository for my main items
